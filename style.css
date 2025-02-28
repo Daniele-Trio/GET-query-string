@@ -1,0 +1,22 @@
+#content{
+
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+button{
+
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    background-color: rgb(223, 163, 163);
+    border: 3px solid rgb(186, 119, 119);
+    font-size: 40pt;
+
+}
